@@ -1,0 +1,10 @@
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\bin\Debug\ex1c.exe.config
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\bin\Debug\ex1c.exe
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\bin\Debug\ex1c.pdb
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\obj\Debug\ex1c.csproj.AssemblyReference.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\obj\Debug\ex1c.Form1.resources
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\obj\Debug\ex1c.Properties.Resources.resources
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\obj\Debug\ex1c.csproj.GenerateResource.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\obj\Debug\ex1c.csproj.CoreCompileInputs.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\obj\Debug\ex1c.exe
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex1c\obj\Debug\ex1c.pdb
