@@ -1,0 +1,10 @@
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\bin\Debug\exif.exe.config
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\bin\Debug\exif.exe
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\bin\Debug\exif.pdb
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\obj\Debug\ex1f.csproj.AssemblyReference.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\obj\Debug\exif.Form1.resources
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\obj\Debug\exif.Properties.Resources.resources
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\obj\Debug\ex1f.csproj.GenerateResource.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\obj\Debug\ex1f.csproj.CoreCompileInputs.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\obj\Debug\exif.exe
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\exif\obj\Debug\exif.pdb
