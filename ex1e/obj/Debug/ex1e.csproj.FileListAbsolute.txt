@@ -1,0 +1,10 @@
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\bin\Debug\ex1e.exe.config
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\bin\Debug\ex1e.exe
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\bin\Debug\ex1e.pdb
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\obj\Debug\ex1e.csproj.AssemblyReference.cache
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\obj\Debug\ex1e.Form1.resources
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\obj\Debug\ex1e.Properties.Resources.resources
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\obj\Debug\ex1e.csproj.GenerateResource.cache
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\obj\Debug\ex1e.csproj.CoreCompileInputs.cache
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\obj\Debug\ex1e.exe
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex1e\obj\Debug\ex1e.pdb
