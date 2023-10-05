@@ -1,0 +1,10 @@
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\bin\Debug\ex2b.exe.config
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\bin\Debug\ex2b.exe
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\bin\Debug\ex2b.pdb
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\obj\Debug\ex2b.csproj.AssemblyReference.cache
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\obj\Debug\ex2b.Form1.resources
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\obj\Debug\ex2b.Properties.Resources.resources
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\obj\Debug\ex2b.csproj.GenerateResource.cache
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\obj\Debug\ex2b.csproj.CoreCompileInputs.cache
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\obj\Debug\ex2b.exe
+C:\Users\IT Nerd\source\repos\1730-Keegan-Rusert\ex2b\obj\Debug\ex2b.pdb
