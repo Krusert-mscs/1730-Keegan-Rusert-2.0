@@ -1,0 +1,10 @@
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\bin\Debug\ex2d.exe.config
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\bin\Debug\ex2d.exe
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\bin\Debug\ex2d.pdb
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\obj\Debug\ex2d.csproj.AssemblyReference.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\obj\Debug\ex2d.Form1.resources
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\obj\Debug\ex2d.Properties.Resources.resources
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\obj\Debug\ex2d.csproj.GenerateResource.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\obj\Debug\ex2d.csproj.CoreCompileInputs.cache
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\obj\Debug\ex2d.exe
+C:\Users\Keegan\source\repos\1730-Keegan-Rusert-2.0\ex2d\obj\Debug\ex2d.pdb
